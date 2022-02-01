@@ -1,0 +1,6 @@
+* html .contact-box .b {
+	background:none;
+	filter: progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-contact-box-b.png', sizingmethod='crop');
+}
+
+.txt1 { width: 530px; }
